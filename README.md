@@ -57,7 +57,7 @@ Optimizing the code for performance.
 Contributing
 If you have any suggestions for improvements or find any bugs, feel free to open an issue or submit a pull request.
 
-## Credits
+## Contributions
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 Enjoy using the Scientific Calculator! If you have any questions or feedback, don't hesitate to reach out.
 
