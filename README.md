@@ -4,12 +4,19 @@ Welcome to the Scientific Calculator repository! This Python application provide
 
 ## Features
 **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
+
 **Exponential Functions:** Calculate powers, square roots, and cube roots.
+
 **Trigonometric Functions:** Compute sine, cosine, tangent, and their inverses.
+
 **Logarithmic Functions:** Calculate logarithms and natural logarithms.
+
 **Factorial:** Find the factorial of a number.
+
 **Constants:** Access constants such as Euler's number (e) and pi (π).
+
 **Degrees/Radians Conversion:** Easily switch between degrees and radians.
+
 **Answer Recall:** Quickly recall the previous result for further calculations.
 
 ## How to Use
