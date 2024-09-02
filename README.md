@@ -3,23 +3,26 @@
 Welcome to the Scientific Calculator repository! This Python application provides a feature-rich scientific calculator with a user-friendly interface built using the Tkinter library.
 
 ## Features
-Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
-Exponential Functions: Calculate powers, square roots, and cube roots.
-Trigonometric Functions: Compute sine, cosine, tangent, and their inverses.
-Logarithmic Functions: Calculate logarithms and natural logarithms.
-Factorial: Find the factorial of a number.
-Constants: Access constants such as Euler's number (e) and pi (π).
-Degrees/Radians Conversion: Easily switch between degrees and radians.
-Answer Recall: Quickly recall the previous result for further calculations.
+**Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
+**Exponential Functions:** Calculate powers, square roots, and cube roots.
+**Trigonometric Functions:** Compute sine, cosine, tangent, and their inverses.
+**Logarithmic Functions:** Calculate logarithms and natural logarithms.
+**Factorial:** Find the factorial of a number.
+**Constants:** Access constants such as Euler's number (e) and pi (π).
+**Degrees/Radians Conversion:** Easily switch between degrees and radians.
+**Answer Recall:** Quickly recall the previous result for further calculations.
 
 ## How to Use
 -**Clone this repository to your local machine.**
+
 git clone https://github.com/Maitri-Shekhda/scientific-calculator-tkinter.git
 
 -**Navigate to the directory containing the cloned repository.**
+
 cd scientific-calculator-tkinter
 
 -**Run the Python script.**
+
 python calculator.py
 
 Use the buttons to input numbers, operators, and functions.
