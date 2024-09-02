@@ -13,13 +13,13 @@ Degrees/Radians Conversion: Easily switch between degrees and radians.
 Answer Recall: Quickly recall the previous result for further calculations.
 
 ## How to Use
--Clone this repository to your local machine.
+-**Clone this repository to your local machine.**
 git clone https://github.com/Maitri-Shekhda/scientific-calculator-tkinter.git
 
--Navigate to the directory containing the cloned repository.
+-**Navigate to the directory containing the cloned repository.**
 cd scientific-calculator-tkinter
 
--Run the Python script.
+-**Run the Python script.**
 python calculator.py
 
 Use the buttons to input numbers, operators, and functions.
